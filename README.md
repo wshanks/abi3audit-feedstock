@@ -1,11 +1,11 @@
-About abi3audit
-===============
+About abi3audit-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/abi3audit-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pypi.org/project/abi3audit/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/abi3audit-feedstock/blob/main/LICENSE.txt)
 
 Summary: Scans Python wheels for abi3 violations and inconsistencies
 
